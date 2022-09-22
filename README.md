@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18304870/163430896-fa0bc26e-d186-4127-8ebb-cbf8df64fd6a.png">
+  <img src="https://m.media-amazon.com/images/P/B09WLF84W7.01._SCLZZZZZZZ_SX500_.jpg">
 </p>
 
 <p align="center"> In progress:</p>
@@ -7,7 +7,7 @@
 
 # TheBigNerdRanch-Android-4th-Edition
 
-My work following the "Android Programming - The Big Nerd Ranch Guide - 4th Edition" with potential challenges solutions
+My work following the "Android Programming - The Big Nerd Ranch Guide - 5th Edition" with potential challenges solutions
 
 # Purpose
 
@@ -19,4 +19,4 @@ Feel free to point out eventual mistakes or missing part by raising an issue or 
 
 # Reference
 
-[Amazon Link](https://www.amazon.com/Android-Programming-Ranch-Guide-Guides-ebook-dp-B07XVLNGX1/dp/B07XVLNGX1/ref=mt_other?_encoding=UTF8&me=&qid=1644862500)
+[Amazon Link](https://www.amazon.com/Android-Programming-Nerd-Ranch-Guide-ebook/dp/B09WLF84W7/ref=sr_1_1?crid=3JVT1E43PSYIX&keywords=Android+Programming%3A+The+Big+Nerd+Ranch+Guide&qid=1663857260&s=digital-text&sprefix=android+programming+the+big+nerd+ranch+guide%2Cdigital-text%2C161&sr=1-1)
